@@ -87,3 +87,8 @@ python TextService.py --mode encode_decode plaintext.txt otp_key.txt
 ```bash
 python TextService.py --mode encode_decode ciphertext.txt otp_key.txt
 ```
+
+> The response from any of the modes will be written in newly created file named ***server_response.txt***
+
+
+
