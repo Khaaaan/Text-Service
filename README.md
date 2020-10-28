@@ -26,7 +26,7 @@ Encode/Decode text: The sender sends the text file and the key (another text) on
 To download this repository you should use `git clone` command in your terminal.
 
 ```bash
-git clone 
+git clone https://github.com/Khaaaan/Text-Service.git
 ```
 
 After downloading this repository, to install requirements to launch this application you can use `pip install` command in repository directory.
